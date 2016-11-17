@@ -1,0 +1,15 @@
+---
+---
+{% if entry.doi %}
+<a href="http://doi.org/{{ entry.doi }}"><img src="/assets/images/doi_org_small.png"
+  width="20" height="20" style="padding:0px"></a>
+{% else %}
+<span style="padding-left:26px"> </span>
+{% endif %}
+{% if entry.pdf %}
+<a href="/assets/pdf/{{ entry.pdf }}"><img src="/assets/images/pdf_small.png"
+  width="20" height="20" style="padding:0px"></a>
+{% else %}
+<span style="padding-left:26px"> </span>
+{% endif %}
+{{ reference }}
