@@ -12,4 +12,6 @@ ALE in MOM6 and realizing certain choices lead to different capabilities.
 <a href="/assets/pdf/ALE_workshop_NCWCP_2016.pdf"><img src="/assets/images/pdf_small.png" width="20" height="20" style="padding:0px">
 pdf of presentation</a>
 
-<object width="100%" height="600" data="/assets/pdf/ALE_workshop_NCWCP_2016.pdf"></object>
+<div style="text-align:center">
+<object width="1000" height="600" data="/assets/pdf/ALE_workshop_NCWCP_2016.pdf"></object>
+</div>
