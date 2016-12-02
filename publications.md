@@ -29,7 +29,7 @@ nav-menu: yes
   <section id="two">
     <div class="inner">
       <ul class="actions">
-        <li><a href="index.html" class="button next">Read on</a></li>
+        <li><a href="alltalks.html" class="button next">Read on</a></li>
       </ul>
     </div>
   </section>

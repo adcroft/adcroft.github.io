@@ -18,7 +18,18 @@
 
 <!-- One -->
 <section id="one">
+
   <div class="inner">
+
+    <div style="display: block; width:auto; overflow:hidden">
+      {% if page.next.url %}
+        <a style="float:left" href="{{page.next.url}}">&laquo; {{page.next.title}}</a>
+      {% endif %}
+      {% if page.previous.url %}
+        <a style="float:right; text-align:right" href="{{page.previous.url}}">{{page.previous.title}} &raquo;</a>
+      {% endif %}
+    </div>
+
     <header class="major">
       <h1>{{ page.title }}</h1>
     </header>
@@ -27,9 +38,9 @@
   </div>
 </section>
 
-</div>
+{% include footer.html %}
 
-    {% include footer.html %}
+</div>
 
 </body>
 
