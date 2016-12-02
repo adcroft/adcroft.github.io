@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flavors of ALE
-description: ALE workshop held at NOAA-NWS in 2106
+description: ALE workshop held at NOAA-NWS in 2016
 ---
 
 In this presentation I describe two flavors of the ALE method.  These two
