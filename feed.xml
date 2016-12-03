@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://adcroft.github.io/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="https://adcroft.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://adcroft.github.io/" rel="alternate" type="text/html" /><updated>2016-12-02T15:25:34-05:00</updated><id>https://adcroft.github.io//</id><subtitle>Research Oceanographer</subtitle><entry><title type="html">Flavors of ALE</title><link href="https://adcroft.github.io/2016/10/04/ALE-workshop.html" rel="alternate" type="text/html" title="Flavors of ALE" /><published>2016-10-04T00:00:00-04:00</published><updated>2016-10-04T00:00:00-04:00</updated><id>https://adcroft.github.io/2016/10/04/ALE-workshop</id><content type="html" xml:base="https://adcroft.github.io/2016/10/04/ALE-workshop.html">&lt;p&gt;In this presentation I describe two flavors of the ALE method.  These two
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://adcroft.github.io/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="https://adcroft.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://adcroft.github.io/" rel="alternate" type="text/html" /><updated>2016-12-02T18:46:34-05:00</updated><id>https://adcroft.github.io//</id><subtitle>Research Oceanographer</subtitle><entry><title type="html">Flavors of ALE</title><link href="https://adcroft.github.io/2016/10/04/ALE-workshop.html" rel="alternate" type="text/html" title="Flavors of ALE" /><published>2016-10-04T00:00:00-04:00</published><updated>2016-10-04T00:00:00-04:00</updated><id>https://adcroft.github.io/2016/10/04/ALE-workshop</id><content type="html" xml:base="https://adcroft.github.io/2016/10/04/ALE-workshop.html">&lt;p&gt;In this presentation I describe two flavors of the ALE method.  These two
 flavors arise from my interpretation of how the original methods of Hirt, 1974
 and Bleck, 2002 descriptions differ, as well as a result of trying to implement
 ALE in MOM6 and realizing certain choices lead to different capabilities.&lt;/p&gt;
@@ -7,7 +7,10 @@ ALE in MOM6 and realizing certain choices lead to different capabilities.&lt;/p&
 pdf of presentation&lt;/a&gt;&lt;/p&gt;
 
 &lt;div style=&quot;text-align:center&quot;&gt;
+&lt;iframe src=&quot;https://onedrive.live.com/embed?cid=42DB8A616E42F21F&amp;amp;resid=42DB8A616E42F21F%211497&amp;amp;authkey=AD4__EOWJtIoNLE&amp;amp;em=2&amp;amp;wdAr=1.7777777777777777&quot; width=&quot;700px&quot; height=&quot;442px&quot; frameborder=&quot;0&quot;&gt;This is an embedded &lt;a target=&quot;_blank&quot; href=&quot;https://office.com&quot;&gt;Microsoft Office&lt;/a&gt; presentation, powered by &lt;a target=&quot;_blank&quot; href=&quot;https://office.com/webapps&quot;&gt;Office Online&lt;/a&gt;.&lt;/iframe&gt;
+&lt;!--
 &lt;object width=&quot;1000&quot; height=&quot;600&quot; data=&quot;/assets/pdf/ALE_workshop_NCWCP_2016.pdf&quot;&gt;&lt;/object&gt;
+--&gt;
 &lt;/div&gt;</content><summary type="html">In this presentation I describe two flavors of the ALE method.  These two
 flavors arise from my interpretation of how the original methods of Hirt, 1974
 and Bleck, 2002 descriptions differ, as well as a result of trying to implement
@@ -17,12 +20,18 @@ ALE in MOM6 and realizing certain choices lead to different capabilities.</summa
 pdf of presentation&lt;/a&gt;&lt;/p&gt;
 
 &lt;div style=&quot;text-align:center&quot;&gt;
+&lt;iframe src=&quot;https://onedrive.live.com/embed?cid=42DB8A616E42F21F&amp;amp;resid=42DB8A616E42F21F%211500&amp;amp;authkey=AGrVvff1rcowqIQ&amp;amp;em=2&amp;amp;wdAr=1.3333333333333333&quot; width=&quot;700px&quot; height=&quot;572px&quot; frameborder=&quot;0&quot;&gt;This is an embedded &lt;a target=&quot;_blank&quot; href=&quot;https://office.com&quot;&gt;Microsoft Office&lt;/a&gt; presentation, powered by &lt;a target=&quot;_blank&quot; href=&quot;https://office.com/webapps&quot;&gt;Office Online&lt;/a&gt;.&lt;/iframe&gt;
+&lt;!--
 &lt;object width=&quot;1000&quot; height=&quot;600&quot; data=&quot;/assets/pdf/SIAM_CSE_SLC_2015.pdf&quot;&gt;&lt;/object&gt;
-&lt;/div&gt;</content><summary type="html">This presentation describes an extension to the finite volume representation of topography in ocean model.</summary></entry><entry><title type="html">Piecewise Quartic Method</title><link href="https://adcroft.github.io/2014/02/25/AGU_Ocean_Sciences_2014.html" rel="alternate" type="text/html" title="Piecewise Quartic Method" /><published>2014-02-25T00:00:00-05:00</published><updated>2014-02-25T00:00:00-05:00</updated><id>https://adcroft.github.io/2014/02/25/AGU_Ocean_Sciences_2014</id><content type="html" xml:base="https://adcroft.github.io/2014/02/25/AGU_Ocean_Sciences_2014.html">&lt;p&gt;This presentation describes the high-order reconstructions we use in MOM6 within the remapping phase of the model.&lt;/p&gt;
+--&gt;
+&lt;/div&gt;</content><summary type="html">This presentation describes an extension to the finite volume representation of topography in ocean model.</summary></entry><entry><title type="html">Piecewise Quartic Method</title><link href="https://adcroft.github.io/2010/02/25/AGU_Ocean_Sciences_2010.html" rel="alternate" type="text/html" title="Piecewise Quartic Method" /><published>2010-02-25T00:00:00-05:00</published><updated>2010-02-25T00:00:00-05:00</updated><id>https://adcroft.github.io/2010/02/25/AGU_Ocean_Sciences_2010</id><content type="html" xml:base="https://adcroft.github.io/2010/02/25/AGU_Ocean_Sciences_2010.html">&lt;p&gt;This presentation describes the high-order reconstructions we use in MOM6 within the remapping phase of the model.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/assets/pdf/AGU_OS_2010.pdf&quot;&gt;&lt;img src=&quot;/assets/images/pdf_small.png&quot; width=&quot;20&quot; height=&quot;20&quot; style=&quot;padding:0px&quot; /&gt;
 pdf of presentation&lt;/a&gt;&lt;/p&gt;
 
 &lt;div style=&quot;text-align:center&quot;&gt;
+&lt;iframe src=&quot;https://onedrive.live.com/embed?cid=42DB8A616E42F21F&amp;amp;resid=42DB8A616E42F21F%211502&amp;amp;authkey=ALKBs0EwgukaAe0&amp;amp;em=2&amp;amp;wdAr=1.3333333333333333&quot; width=&quot;722px&quot; height=&quot;565px&quot; frameborder=&quot;0&quot;&gt;This is an embedded &lt;a target=&quot;_blank&quot; href=&quot;https://office.com&quot;&gt;Microsoft Office&lt;/a&gt; presentation, powered by &lt;a target=&quot;_blank&quot; href=&quot;https://office.com/webapps&quot;&gt;Office Online&lt;/a&gt;.&lt;/iframe&gt;
+&lt;!--
 &lt;object width=&quot;1000&quot; height=&quot;600&quot; data=&quot;/assets/pdf/AGU_OS_2010.pdf&quot;&gt;&lt;/object&gt;
+--&gt;
 &lt;/div&gt;</content><summary type="html">This presentation describes the high-order reconstructions we use in MOM6 within the remapping phase of the model.</summary></entry></feed>
