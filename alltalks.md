@@ -30,7 +30,7 @@ nav-menu: yes
   <div class="inner">
       {% for post in site.posts %}
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        {{ post.date }} : {{ post.description }}
+        {{ post.date | date_to_long_string }} : {{ post.description }}
       {% endfor %}
   </div>
 </section>
