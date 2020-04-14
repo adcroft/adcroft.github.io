@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: Alistair Adcroft
-description: Research oceangrapher
+description: Research oceanographer
 image: 
 author: 
 nav-menu: 
@@ -37,7 +37,7 @@ nav-menu:
     </header>
     <p>I've noticed that oceanographers tend to think I'm a computer geek.
        Computer scientists assume I'm an applied mathematician.
-       Mathematicians think I'm an oceangropaher.
+       Mathematicians think I'm an oceanogropaher.
        If only I could figured out how to get paid three salaries.</p>
     <ul class="actions">
       <li><a href="landing.html" class="button next">Read on</a></li>
