@@ -6,8 +6,8 @@
 # To get ruby (via rvm):
 #  curl -sSL https://get.rvm.io | bash -s stable --ruby
 #  . ~/.rvm/scripts/rvm 
-#  rvm install 2.4
-#  rvm use --default 2.4
+#  rvm install ruby-3.1.0
+#  rvm use --default 3.1.0
 #  rvm use default
 #
 # To get jekyll:
