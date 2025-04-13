@@ -7,18 +7,18 @@
 
 # Site settings
 title-bold: Adcroft
-title-normal: Generator of Ocean Code
+title-normal: Generator of Ocean Models
 email: youremailaddress@gmail.com
 description: Senior Research Oceanographer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://adcroft.github.io" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: Sayre Hall
+city: Princeton
+state: NJ
+zip_code: 08540
 country: United States of America
-phone: (716) 555-5555
+phone: (609) 987-5073
 
 # Plugins
 plugins:
