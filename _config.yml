@@ -34,15 +34,15 @@ tiles-count: 6
 
 # Social settings
 500px_url: 
-facebook_url: https://www.facebook.com/alistair.adcroft
+facebook_url:
 github_url: https://github.com/adcroft 
 gitlab_url:
-googleplus_url: https://plus.google.com/u/0/+AlistairAdcroft
+googleplus_url: https://scholar.google.com/citations?user=jRfIcNMAAAAJ&hl=en
 instagram_url:
 linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/AlistairAdcroft
+twitter_url:
 
 # Build settings
 markdown: kramdown
