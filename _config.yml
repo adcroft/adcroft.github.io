@@ -7,7 +7,7 @@
 
 # Site settings
 title-bold: Adcroft
-title-normal: Generator of Ocean Models
+title-normal: Computational Oceanography
 email: youremailaddress@gmail.com
 description: Senior Research Oceanographer
 baseurl: "" # the subpath of your site, e.g. /blog
